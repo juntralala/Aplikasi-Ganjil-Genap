@@ -136,6 +136,7 @@ public class GanjilGenapView extends javax.swing.JFrame {
 
     private void jTextField1FocusGained(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_jTextField1FocusGained
         this.jTextField1.setText("");
+        this.jLabel3.setText("");
     }//GEN-LAST:event_jTextField1FocusGained
 
     private boolean cekPrima(int angka) {

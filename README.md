@@ -1,9 +1,9 @@
 # TUGAS 01 - APLIKASI GANJIL GENAP
 
 ## My Bio
-NPM: 2210010097
-Nama: Muhammad Junaidi
-Kelas: 5B TI Reg BJB
+NPM: 2210010097 <br>
+Nama: Muhammad Junaidi <br>
+Kelas: 5B TI Reg BJB <br>
 
 
 ## DEMO

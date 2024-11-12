@@ -19,8 +19,8 @@ Kelas: 5B TI Reg BJB <br>
 4. Diinputkan bilangan Prima <br>
 !["prima"](./images/input_bilangan_prima.png)
 
-5. Klik Tombol ketiak input field masih kosong <br>
+5. Klik Tombol ketika input field masih kosong <br>
 !["kosong"](./images/click_button_when_input_is_empty.png)
 
-6. Ketiak cursor fokus pada input field maka field input dan label untuk menampilkan hasil akan kosong <br>
+6. Ketika cursor fokus pada input field maka field input dan label untuk menampilkan hasil akan kosong <br>
 !["focus listener"](./images/when_cursor_focus_on_input_field_the_input_field_and_result_lable_will_empty.png)
